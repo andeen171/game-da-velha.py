@@ -1,2 +1,2 @@
-# caluladorapy
- calculadora do cursin da jetbrains
+# game-da-velhapy
+ jogo da velha do cursin da jetbrains
